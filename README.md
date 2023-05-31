@@ -21,4 +21,4 @@ Class: SinglyLinkedList\
     size() - returnts the size of the linked list.\
     \
 Class: Main\
-  The main class to test my implementation of a singly linked list.\
+  The main class to test my implementation of a singly linked list.
