@@ -1,8 +1,8 @@
 # singly-linked-list-java
-How to implement a singly linked list in Java/
-
-Class: Node/
-  Methods:/
+How to implement a singly linked list in Java\
+\
+Class: Node\
+  Methods:\
     setNext() - sets the current node's next pointer to point to the queried node./
     getNext() - return the current node's next pointer./
     getValue() - return the current node's value./
